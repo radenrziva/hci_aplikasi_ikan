@@ -1,0 +1,7 @@
+{
+  "name": "aplikasiikantabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
